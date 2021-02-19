@@ -1,0 +1,9 @@
+# Demo REST API
+
+Module use ExpressJS to run test API
+
+## How to start?
+
+```bash
+node src/app.js
+```
