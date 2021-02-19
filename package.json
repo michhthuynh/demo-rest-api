@@ -1,0 +1,14 @@
+{
+  "name": "demo-jenkins-ci",
+  "version": "1.0.0",
+  "description": "Demonstration REST API",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "author": "Huynh Hoang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
